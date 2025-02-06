@@ -1,0 +1,3 @@
+# Uncommon Dart Error: Handling Timeouts and Unexpected Exceptions
+
+This repository demonstrates an uncommon error handling scenario in Dart. The code simulates an asynchronous operation that might throw an exception, including a `TimeoutException`.  The example shows how to handle this case and also how to improve exception handling in general.  The `bug.dart` file contains the original code with an incomplete exception handling structure. The `bugSolution.dart` file offers an improved version.
